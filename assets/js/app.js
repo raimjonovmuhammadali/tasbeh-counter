@@ -1,4 +1,4 @@
-
+// js file
 const count = document.querySelector('.count');
 const tasbeh = document.querySelector('.tasbeh');
 const reset = document.querySelector('.reset');
